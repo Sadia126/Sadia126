@@ -1,3 +1,4 @@
+![Banner Image](https://i.ibb.co/rh5kgJB/front-end-development-web-banner.jpg)
 <h1 align="center">Hi 👋, I'm UMME SADIA SAYTI</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
