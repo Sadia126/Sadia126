@@ -26,7 +26,7 @@ I am a dedicated frontend developer from Bangladesh who loves crafting interacti
 <a href="https://fb.com/umme.sadia.sayti" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
 </a>
-<a href="https://linkedin.com/in/your-linkedin-id" target="blank">
+<a href="https://www.linkedin.com/in/umme-sadia-sayti-35bb47362/" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/>
 </a>
 <a href="https://github.com/sadia126" target="blank">
